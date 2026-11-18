@@ -1,1 +1,1 @@
-  Figures and tables from the simulation runs
+Figures and tables from the simulation runs
